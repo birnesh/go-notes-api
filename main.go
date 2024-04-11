@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/birnesh/notes/controllers"
-	"github.com/birnesh/notes/initializers"
-	"github.com/birnesh/notes/middleware"
+	"github.com/birnesh/go-notes-api/controllers"
+	"github.com/birnesh/go-notes-api/initializers"
+	"github.com/birnesh/go-notes-api/middleware"
 	"github.com/gin-gonic/gin"
 )
 

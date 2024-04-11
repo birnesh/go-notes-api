@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/birnesh/notes/initializers"
-	"github.com/birnesh/notes/models"
+	"github.com/birnesh/go-notes-api/initializers"
+	"github.com/birnesh/go-notes-api/models"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"
 )

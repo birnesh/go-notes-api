@@ -1,4 +1,4 @@
-module github.com/birnesh/notes
+module github.com/birnesh/go-notes-api
 
 go 1.22.2
 

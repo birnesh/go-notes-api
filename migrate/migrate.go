@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/birnesh/notes/initializers"
-	"github.com/birnesh/notes/models"
+	"github.com/birnesh/go-notes-api/initializers"
+	"github.com/birnesh/go-notes-api/models"
 )
 
 func init() {

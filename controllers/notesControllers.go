@@ -3,8 +3,8 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/birnesh/notes/initializers"
-	"github.com/birnesh/notes/models"
+	"github.com/birnesh/go-notes-api/initializers"
+	"github.com/birnesh/go-notes-api/models"
 	"github.com/gin-gonic/gin"
 )
 
